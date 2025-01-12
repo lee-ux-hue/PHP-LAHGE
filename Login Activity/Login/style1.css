@@ -1,0 +1,54 @@
+body {
+    background-image: url('Img/bgbg.jpg');
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.form1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 350px;
+    height: 350px;
+    border: 5px solid #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(79, 27, 84, 0.621);
+
+    
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+   
+    
+    background-image: url('Img/bgt.jpg');
+    background-size: cover;
+    opacity: 0.4;
+    box-shadow: 0 10px 90px rgba(100, 1, 1000, 1000);      
+
+    display: grid;
+   
+
+}
+
+.form1 h2 {
+    font-size:medium;
+    color: #ffffff;
+    margin: left 20px;
+    padding: 0px;
+}
+
+.form1 p {
+    
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+
